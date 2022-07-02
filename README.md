@@ -37,6 +37,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/LuizGusta21/LuizGusta21/blob/output/snake.svg" alt="Snake animation" />
-
+<div>
+  <img href="https://raw.githubusercontent.com/LuizGusta21/LuizGusta21/blob/output/snake.svg" alt="Snake animation" />
+</div>
 ###
