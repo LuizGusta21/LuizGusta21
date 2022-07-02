@@ -10,7 +10,7 @@
   <img align="center" alt="Gu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <div><img align="right" height="150" src="https://i.pinimg.com/originals/d6/61/2a/d6612a07f6a5eb55d9174eb776bd1528.gif"  /></div>
+  <div><img align="right" height="150" src="https://www.clipartmax.com/middle/m2i8d3K9i8N4d3K9_para-liberar-o-pikachu-como-seu-pok%C3%A9mon-inicial-basta-pokemones-pikachu/"  /></div>
 </div>
   
   ##
