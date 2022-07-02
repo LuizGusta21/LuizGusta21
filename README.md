@@ -10,8 +10,11 @@
   <img align="center" alt="Gu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" height="150" src="https://i.pinimg.com/originals/d6/61/2a/d6612a07f6a5eb55d9174eb776bd1528.gif"  />
 </div>
+  
+  ##
+  
+  <img align="right" height="150" src="https://i.pinimg.com/originals/d6/61/2a/d6612a07f6a5eb55d9174eb776bd1528.gif"  />
   
   ##
  
