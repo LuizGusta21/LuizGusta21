@@ -1,5 +1,5 @@
 ## Hi! My name is Luiz Gustavo and I'm a Software Enginner.
-<div align="center">
+<div align="left">
   <a href="https://github.com/LuizGusta21">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LuizGusta21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGusta21&layout=compact&langs_count=7&theme=dracula"/>
