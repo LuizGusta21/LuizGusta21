@@ -1,4 +1,4 @@
-## Hi! My name is Luiz Gustavo and I'm a Software Enginner.
+## Hi! My name is Luiz Gustavo and I'm a Data Analyst.
 <div align="center">
   <a href="https://github.com/LuizGusta21">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuizGusta21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -11,6 +11,8 @@
   <img align="center" alt="Gu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gu-PYT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
   <img align="right" height="150" src="https://i.pinimg.com/736x/15/6c/1e/156c1e97633354ed7afc3408e2bee1ea.jpg"  />
 </div>
   
