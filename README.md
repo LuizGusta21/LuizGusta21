@@ -1,7 +1,7 @@
 ## 👋 Hi! I'm Luiz Gustavo – Data Scientist
 
 🎯 Passionate about transforming data into actionable insights.  
-🔍 Focused on **Python, Pandas, SQL, Machine Learning** and data-driven solutions.
+🔍 Focused on **Python, Pandas, SQL, Machine Learning, Artificial Intelligence** and **Process Automation (n8n)**.
 
 <div align="center">
   <a href="https://github.com/LuizGusta21">
@@ -12,13 +12,17 @@
 
 ---
 
-## 🚀 Tech Skills
+## 🚀 Tech Stack
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="ML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg">
+  <img align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Oracle" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+  <img align="center" alt="MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="n8n" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg">
+  <img align="center" alt="AI" height="40" width="40" src="https://img.icons8.com/fluency/48/artificial-intelligence.png">
 </div>
 
 ---
@@ -32,7 +36,5 @@
 ---
 
 <div align="center">
-  
-  ![Snake animation](https://github.com/LuizGusta21/LuizGusta21/blob/output/github-contribution-grid-snake.svg)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 </div>
