@@ -1,7 +1,7 @@
-## 👋 Hi! I'm Luiz Gustavo – Data Scientist
+## 👋 Hi! I'm Luiz Gustavo – Data Scientist 🧙‍♂️
 
 🎯 Passionate about transforming data into actionable insights.  
-🔍 Focused on **Python, Pandas, SQL, Machine Learning, Artificial Intelligence** and **Process Automation (n8n)**.
+🔍 Focused on **Python, Pandas, SQL, Machine Learning, Artificial Intelligence** and data engineering.
 
 <div align="center">
   <a href="https://github.com/LuizGusta21">
@@ -17,12 +17,12 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg">
+  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Oracle" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   <img align="center" alt="MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="n8n" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg">
   <img align="center" alt="AI" height="40" width="40" src="https://img.icons8.com/fluency/48/artificial-intelligence.png">
+  <img align="center" alt="Wizard" height="40" width="40" src="https://img.icons8.com/emoji/48/wizard-medium-light-skin-tone.png">
 </div>
 
 ---
