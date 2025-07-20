@@ -22,7 +22,6 @@
   <img align="center" alt="Oracle" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   <img align="center" alt="MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="AI" height="40" width="40" src="https://img.icons8.com/fluency/48/artificial-intelligence.png">
-  <img align="center" alt="Wizard" height="40" width="40" src="https://img.icons8.com/emoji/48/wizard-medium-light-skin-tone.png">
 </div>
 
 ---
